@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
 
-      <Link to='/'><a className="logo">AutiPlay</a></Link>
+      <Link to='/'><a className="logo">Cognify Kids</a></Link>
       <ul>
         <Link to='/'><li onClick={() => setMenu("home")} className={menu === "home" ? "active" : ""}>Home</li></Link>
         <Link to='/games'><li onClick={() => setMenu("games")} className={menu === "games" ? "active" : ""}>Games</li></Link>

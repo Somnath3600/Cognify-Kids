@@ -18,7 +18,7 @@ const Home = () => {
           </ul>
         </header> */}
         <div className="content">
-          <h2>AutiPlay</h2>
+          <h2>Cognify Kids</h2>
           <p>
             Video games provide kids affected by autism with an opportunity for joint attention and shared interests with their peers. Studies suggest that kids with autism may have somewhat unique and unusual interest in these games that differs from their peers but nonetheless gives them a basis for shared focus on an activity.
           </p>
